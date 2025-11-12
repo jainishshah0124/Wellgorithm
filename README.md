@@ -40,8 +40,8 @@ Decode Your Wellness with Intelligent Insights
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/harshhh28/hia.git
-cd hia
+git clone https://github.com/jainishshah0124/Wellgorithm.git
+cd Wellgorithm
 ```
 
 2. Install dependencies:
@@ -62,9 +62,9 @@ GROQ_API_KEY = "your-groq-api-key"
 
 The application requires the following tables in your Supabase database:
 
-![database schema](https://raw.githubusercontent.com/harshhh28/hia/main/public/db/schema.png)
+![database schema](https://raw.githubusercontent.com/jainishshah0124/Wellgorithm/main/public/db/schema.png)
 
-You can use the SQL script provided at `public/db/script.sql` <a href="https://www.github.com/harshhh28/hia/blob/main/public/db/script.sql">[link]</a> to set up the required database schema.
+You can use the SQL script provided at `public/db/script.sql` <a href="https://www.github.com/jainishshah0124/Wellgorithm/blob/main/public/db/script.sql">[link]</a> to set up the required database schema.
 
 (PS: You can turn off the email confimation on signup in Supabase settings -> signup -> email)
 
