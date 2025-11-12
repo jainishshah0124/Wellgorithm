@@ -8,7 +8,7 @@ from config.app_config import APP_NAME, APP_TAGLINE, APP_DESCRIPTION, APP_ICON
 
 # Must be the first Streamlit command
 st.set_page_config(
-    page_title="HIA - Health Insights Agent",
+    page_title="Wellgorithm",
     page_icon="🩺",
     layout="wide"
 )
