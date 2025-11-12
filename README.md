@@ -1,27 +1,6 @@
-# 🩺 HIA (Health Insights Agent)
+# 🩺 Wellgorithm (Wellness + Algorithm)
 
-AI Agent to analyze blood reports and provide detailed health insights.
-
-<p align="center">
-  <a href="https://github.com/harshhh28/hia/issues"><img src="https://img.shields.io/github/issues/harshhh28/hia"></a> 
-  <a href="https://github.com/harshhh28/hia/stargazers"><img src="https://img.shields.io/github/stars/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/network/members"><img src="https://img.shields.io/github/forks/harshhh28/hia"></a>
-  <a href="https://github.com/harshhh28/hia/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
-  </a>
-</p>
-
-<p align="center">
-  <a href="#-features">Features</a> |
-  <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> |
-  <a href="#-installation">Installation</a> |
-  <a href="#-contributing">Contributing</a> |
-  <a href="#%EF%B8%8F-author">Author</a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/harshhh28/hia"><img src="https://raw.githubusercontent.com/harshhh28/hia/main/public/HIA_demo.gif" alt="Usage Demo"></a>
-</p>
+Decode Your Wellness with Intelligent Insights
 
 ## 🌟 Features
 
