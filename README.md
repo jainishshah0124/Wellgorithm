@@ -77,7 +77,7 @@ streamlit run src\main.py
 ## 📁 Project Structure
 
 ```
-hia/
+Wellgorithm/
 ├── requirements.txt
 ├── README.md
 ├── src/
